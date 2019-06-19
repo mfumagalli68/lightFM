@@ -1,6 +1,6 @@
 from src.Lib import *
 import os
-from src.models.Model import TuneModel,LightFMModel
+from src.model.Model import TuneModel,LightFMModel
 import datetime
 
 os.chdir('C:\\Users\\marco.fumagalli\\LightFM')
