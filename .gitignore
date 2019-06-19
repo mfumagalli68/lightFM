@@ -1,0 +1,8 @@
+Verifiche/
+venv/
+Attempt/
+UserLightFmExploration.sql
+cleaned_retail.pkl
+src/ConnectionDB.py
+src/data/
+models/

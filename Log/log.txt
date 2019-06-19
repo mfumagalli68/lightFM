@@ -1,0 +1,114 @@
+[2019-02-12 12:16:00] p61228 {C:\Users\marco.fumagalli\LightFM\LightFM.py:41} INFO - 
+[2019-02-12 12:23:22] p48512 {C:\Users\marco.fumagalli\LightFM\LightFM.py:41} INFO - 
+[2019-02-12 14:42:29] p54484 {C:\Users\marco.fumagalli\LightFM\LightFM.py:41} INFO - 
+[2019-02-15 10:06:04] p35288 {C:\Users\marco.fumagalli\LightFM\LightFM.py:41} INFO - 
+[2019-02-19 09:47:39] p20292 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - 
+[2019-02-19 09:48:34] p3040 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - 
+[2019-02-19 09:50:27] p17596 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - 
+[2019-02-19 09:51:35] p9448 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - 
+[2019-02-19 09:57:41] p11596 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - 
+[2019-02-19 10:06:49] p11604 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - 
+[2019-02-19 12:35:39] p20384 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 12:36:36] p17832 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 12:39:29] p10172 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 12:41:35] p18568 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 12:42:12] p20580 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 12:54:51] p15436 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 12:55:03] p21008 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 12:55:57] p10028 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 13:02:48] p22956 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 13:03:19] p2764 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 13:04:34] p21224 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 13:06:37] p19844 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 13:07:17] p22420 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 13:07:46] p21500 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 14:21:52] p8424 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 14:30:34] p8136 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 14:31:23] p11720 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 14:32:24] p11408 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 14:33:02] p14700 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 14:34:06] p21636 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-19 14:34:29] p4092 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 09:01:56] p8452 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 09:03:54] p22780 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 09:22:33] p7120 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 09:23:37] p22104 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 09:35:08] p18428 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 10:32:47] p24184 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 10:34:38] p6240 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - 
+[2019-02-21 17:55:47] p5464 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-21 17:57:12] p5464 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-21 18:00:11] p5464 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-21 18:02:02] p5464 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-22 09:28:23] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-22 09:29:52] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-22 09:33:03] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-22 09:35:07] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-22 09:38:18] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-22 09:40:41] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-22 09:43:54] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-22 09:46:44] p21752 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 14:52:24] p24804 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 14:54:05] p41232 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 14:54:39] p41232 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 14:54:42] p41232 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 14:56:33] p41232 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 16:59:31] p27412 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:00:06] p27412 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:00:13] p27412 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:02:06] p27412 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:05:48] p27412 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:08:18] p21124 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:08:54] p21124 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:08:58] p21124 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:09:05] p21124 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:12:47] p22264 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:13:19] p22264 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:13:24] p22264 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:13:29] p22264 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:19:04] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:19:10] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:20:32] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:20:40] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:22:08] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:22:20] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:24:03] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:24:16] p41080 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:32:14] p21852 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-02-28 17:32:20] p21852 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-02-28 17:33:41] p21852 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-03-04 12:13:43] p26940 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-03-04 12:14:42] p26940 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-03-04 12:16:43] p34720 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-03-04 12:17:14] p34720 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-03-04 12:19:26] p34184 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-03-04 12:19:42] p34184 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-03-04 12:37:28] p8420 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-03-04 12:37:41] p8420 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-03-04 12:58:05] p38864 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-03-04 12:59:05] p38864 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-03-04 13:00:10] p21828 {C:\Users\marco.fumagalli\LightFM\Model.py:45} INFO - Loading model and beginning refitting
+[2019-03-04 13:01:20] p21828 {C:\Users\marco.fumagalli\LightFM\Model.py:57} INFO - Model fitted.
+[2019-03-04 15:21:25] p10828 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - Loading model and beginning refitting
+[2019-03-04 15:21:55] p10828 {C:\Users\marco.fumagalli\LightFM\Model.py:55} INFO - Model fitted.
+[2019-03-04 15:23:40] p34092 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - Loading model and beginning refitting
+[2019-03-04 15:24:14] p34092 {C:\Users\marco.fumagalli\LightFM\Model.py:55} INFO - Model fitted.
+[2019-03-04 15:26:16] p16348 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - Loading model and beginning refitting
+[2019-03-04 15:26:26] p16348 {C:\Users\marco.fumagalli\LightFM\Model.py:55} INFO - Model fitted.
+[2019-03-04 15:30:13] p28612 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - Loading model and beginning refitting
+[2019-03-04 15:30:23] p28612 {C:\Users\marco.fumagalli\LightFM\Model.py:55} INFO - Model fitted.
+[2019-03-04 16:49:47] p1252 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - Loading model and beginning refitting
+[2019-03-04 16:50:48] p1252 {C:\Users\marco.fumagalli\LightFM\Model.py:55} INFO - Model fitted.
+[2019-03-05 11:25:00] p46608 {C:\Users\marco.fumagalli\LightFM\Model.py:43} INFO - Loading model and beginning refitting
+[2019-03-05 11:26:10] p46608 {C:\Users\marco.fumagalli\LightFM\Model.py:55} INFO - Model fitted.
+[2019-03-07 11:20:26] p42576 {C:\Users\marco.fumagalli\LightFM\Model.py:48} INFO - Loading model and beginning refitting
+[2019-03-07 11:34:52] p35072 {C:\Users\marco.fumagalli\LightFM\Model.py:64} INFO - Model fitted.
+[2019-03-08 12:59:29] p2564 {C:\Users\marco.fumagalli\LightFM\Model.py:64} INFO - Model fitted.
+[2019-03-08 15:13:58] p25764 {C:\Users\marco.fumagalli\LightFM\Model.py:64} INFO - Model fitted.
+[2019-04-10 15:50:33] p138316 {C:\Users\marco.fumagalli\LightFM\Model.py:66} INFO - Model fitted.
+[2019-06-03 12:30:42] p12912 {C:\Users\marco.fumagalli\LightFM\Model.py:66} INFO - Model fitted.
+[2019-06-03 12:46:33] p1532 {C:\Users\marco.fumagalli\LightFM\Model.py:66} INFO - Model fitted.
+[2019-06-03 13:00:51] p2400 {C:\Users\marco.fumagalli\LightFM\Model.py:66} INFO - Model fitted.
+[2019-06-03 13:06:19] p13240 {C:\Users\marco.fumagalli\LightFM\Model.py:66} INFO - Model fitted.
+[2019-06-03 13:33:48] p2164 {C:\Users\marco.fumagalli\LightFM\Model.py:66} INFO - Model fitted.
+[2019-06-03 17:25:28] p19584 {C:\Users\marco.fumagalli\LightFM\src\models\Model.py:66} INFO - Model fitted.
